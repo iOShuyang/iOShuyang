@@ -8,7 +8,7 @@
 > - 🏫 西华师范大学（软件工程)
 > - 💪 5年工作经验 
 > - 👴 29岁                                                        
-> - 📝 Objective-C/Swift/Flutter/PHP
+> - 📝 Objective-C/Swift/Flutter/Java/PHP
 > - 👟 足球、数码、宠物
 > - 📫 ytbhuyang@gmail.com
 > - 掘金账号：iOShuyang
