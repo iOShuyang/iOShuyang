@@ -1,6 +1,6 @@
 ### 👋 Welcome to Huyang's github.
 
-| <div align="left"> - 🇨🇳 四川成都 <br> - 🏫 西华师范大学（软件工程) <br> - 💪 8年工作经验 <br> - 👴 28岁 <br> <br> - 📝 Objective-C(6年) <br> - 📝 Swift(2年)<br> - 📝 Flutter(2年)<br> - 👟 足球、数码、宠物 <br> - 📫 ytbhuyang@gmail.com <br> - 掘金账号：iOShuyang <br> </div>| [![Huyang's github stats](https://github-readme-stats.vercel.app/api?username=iOShuyang&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
+| <div align="left"> - 🇨🇳 四川成都 <br> - 🏫 西华师范大学（软件工程) <br> - 💪 8年工作经验 <br> - 👴 30岁(1992年) <br> <br> - 📝 Objective-C(6年) <br> - 📝 Swift(2年)<br> - 📝 Flutter(2年)<br> - 👟 足球、数码、宠物 <br> - 📫 ytbhuyang@gmail.com <br> - 掘金账号：iOShuyang <br> </div>| [![Huyang's github stats](https://github-readme-stats.vercel.app/api?username=iOShuyang&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
 | --- | --- |
 
 <!--
